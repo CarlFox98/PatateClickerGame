@@ -6,12 +6,10 @@ Welcome to the Patate Clicker Game! Click your way to Patate glory in this charm
 
 Early alpha, last updated in October 2023. What's in the game today:
 
-- Click Patate to earn Patate Coins.
-- The **Coin Shop** sells two upgrades: more coins per click, and coins per second. Each costs double the last.
-- Your coins and upgrades are saved between sessions.
-- Main menu and options (master, music and SFX volume, resolution, graphics quality).
+- Click Patate to earn Patate Coins, with a sound and a bounce. Your coin count is saved between sessions.
+- Main menu, in-game quick settings, and options (master, music and SFX volume, resolution, graphics quality).
 
-Most of the design below isn't built yet: the **Patate Shop** opens but sells nothing, and there are no Patate characters, player levels or XP. Those sections describe the plan.
+Most of the design below isn't built yet. The **Coin Shop** and **Patate Shop** panels open but sell nothing. Upgrade fields (coins per click and per second, with doubling costs) are defined in the save data but not wired up. There are no Patate characters, player levels or XP. Those sections describe the plan.
 
 ## Table of Contents
 
