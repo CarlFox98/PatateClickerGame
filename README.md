@@ -36,7 +36,7 @@ In this clicker game, your primary task is to click on the Patate character spri
 
 ## Progression System
 
-*Planned — not built yet.* Experience a rewarding progression system based on player levels. Start at level 1 and work your way up to level 100. As you level up, you'll gain access to newer and better Patate characters and exciting upgrades.
+*Planned, not built yet.* Experience a rewarding progression system based on player levels. Start at level 1 and work your way up to level 100. As you level up, you'll gain access to newer and better Patate characters and exciting upgrades.
 
 ## Monetization
 
@@ -60,7 +60,7 @@ For now, the game focuses solely on the clicker-style gameplay and does not incl
 
 ## Balancing
 
-*Planned — not built yet.* The game's balance is tied to your player level. As you progress, the cost of purchasing Patate characters and upgrades will increase, providing a rewarding challenge. Player levels will also require more time or XP to level up as time goes on.
+*Planned, not built yet.* The game's balance is tied to your player level. As you progress, the cost of purchasing Patate characters and upgrades will increase, providing a rewarding challenge. Player levels will also require more time or XP to level up as time goes on.
 
 ## Testing
 
