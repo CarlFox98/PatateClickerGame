@@ -2,6 +2,15 @@
 
 Welcome to the Patate Clicker Game! Click your way to Patate glory in this charming and addictive clicker game featuring the adorable Patate, a cat-potato hybrid.
 
+## Current status
+
+Early alpha, last updated in October 2023. What's in the game today:
+
+- Click Patate to earn Patate Coins, with a sound and a bounce. Your coin count is saved between sessions.
+- Main menu, in-game quick settings, and options (master, music and SFX volume, resolution, graphics quality).
+
+Most of the design below isn't built yet. The **Coin Shop** and **Patate Shop** panels open but sell nothing. Upgrade fields (coins per click and per second, with doubling costs) are defined in the save data but not wired up. There are no Patate characters, player levels or XP. Those sections describe the plan.
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -27,7 +36,7 @@ In this clicker game, your primary task is to click on the Patate character spri
 
 ## Progression System
 
-Experience a rewarding progression system based on player levels. Start at level 1 and work your way up to level 100. As you level up, you'll gain access to newer and better Patate characters and exciting upgrades.
+*Planned, not built yet.* Experience a rewarding progression system based on player levels. Start at level 1 and work your way up to level 100. As you level up, you'll gain access to newer and better Patate characters and exciting upgrades.
 
 ## Monetization
 
@@ -51,7 +60,7 @@ For now, the game focuses solely on the clicker-style gameplay and does not incl
 
 ## Balancing
 
-The game's balance is tied to your player level. As you progress, the cost of purchasing Patate characters and upgrades will increase, providing a rewarding challenge. Player levels will also require more time or XP to level up as time goes on.
+*Planned, not built yet.* The game's balance is tied to your player level. As you progress, the cost of purchasing Patate characters and upgrades will increase, providing a rewarding challenge. Player levels will also require more time or XP to level up as time goes on.
 
 ## Testing
 
