@@ -12,3 +12,15 @@
 # Visual Studio Code files
 .vscode/
 s
+# Builds (publish these as GitHub Releases instead)
+/[Bb]uilds/
+
+# IDE and Unity-generated project files
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+/UIElementsSchema/
